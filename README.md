@@ -11,3 +11,8 @@ Usage:
   ```
   http://example.com/keygen.php?ver=1&mac=00:00:00:00:00:00
   ```
+  - BLOG
+  ```
+  https://blog.wxlost.com/LotServer_KeyGen/keygen.php?mac=00:00:00:00:00:00
+
+  ```
